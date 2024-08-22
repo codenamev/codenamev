@@ -4,3 +4,24 @@
     <img alt="codenamev"  src="https://img.shields.io/badge/run%20trace-anticipating%20click...-yellow?style=flat">
   </a>
 </p>
+
+## Incomplete List of Activities
+
+- ⚡️[Ruby Tuner](https://github.com/rubylang-ai/ruby-tuner): A ruby framework for fine-tuning LLMs for ruby code generation.</li>
+- ⚡️[PodcastBuddy](https://github.com/codenamev/podcast-buddy): An AI companion to join you on your pod.</li>
+- ⚡️[GitCommander](https://github.com/codenamev/git-commander): A CLI tool for creating git commands with ruby.</li>
+- 🚧 Agentic: A ruby gem for building plan & execute LLM applications.</li>
+- 🚧 [langforge-rails](https://github.com/codenamev/langforge-rails): A Ruby on Rails application for evaluating LLM outputs.</li>
+- 🚧 [A trainable robot arm](https://x.com/RemiCadene/status/1825455895561859185).</li>
+- 🚧 [Slimer](https://github.com/codenamev/slimer): A minimalist, database-agnostic, consumer of arbitrary data for IOT.</li>
+- 🚧 [Job FWD](https://github.com/codenamev/job-fwd): A Rails app for forwarding recruiter emails to a public job board.</li>
+- 🚧 [twilio-aws-minecraft](https://github.com/codenamev/twilio-aws-minecraft): Create and manage a Minecraft server via Twilio SMS.</li>
+- 🚧 MorseCodex: A ruby gem that makes it easy to work with Morse Code.</li>
+- 🚧 MorseX: A ruby gem that blasts posts from your X account into Marse Code through your speakers.</li>
+- 🚧 [ruby-pi](https://github.com/codenamev/ruby-pi): An ongoing collection of experiments with Ruby on a Raspberry Pi.</li>
+- 💡 A rails engine that shows a live dashboard of Raspberry Pi signals.</li>
+- 💡 Rails Lightning: A ruby gem that overrides the Rails auto-loader to only require and load files under test.</li>
+- 💡 [Neat.dev](https://neat.dev): A simple relay of every time Justin Searls mentions "neat" in an X post.</li>
+- 💡 [NothingButRuby.com](https://nothingbutruby.com): A showcase of how to solve programming problems with only Ruby.</li>
+- 💡 [NothingButRails.com](https://nothingbutrails.com): A showcase of "How to do X" with Ruby on Rails.</li>
+- 💡 [UPS.dev](https://ups.dev): A developer resource for shipping code.</li>
