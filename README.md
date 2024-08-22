@@ -25,3 +25,8 @@
 - 💡 [NothingButRuby.com](https://nothingbutruby.com): A showcase of how to solve programming problems with only Ruby.</li>
 - 💡 [NothingButRails.com](https://nothingbutrails.com): A showcase of "How to do X" with Ruby on Rails.</li>
 - 💡 [UPS.dev](https://ups.dev): A developer resource for shipping code.</li>
+- 💡 [playlist.sh](https://playlist.sh): A framework for generating and managing playlists in raw format.</li>
+- 💡 [ThinkTank.io](https://thinktank.io): Mind-mapping on sterroids with mind-blowing visualization.</li>
+- 💡 [Wheneva.ai](https://wheneva.ai): Add webhooks to LLM outputs.</li>
+- 💡 [donotcall.ai](https://donotcall.ai): An AI VoIP router to suppress robo-callers.</li>
+- 💡 [dailyroutine.ai](https://dailyroutine.ai): Establish a daily pattern of events that auto-adjusts to new ones.</li>
