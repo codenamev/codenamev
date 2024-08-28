@@ -10,7 +10,7 @@
 - ⚡️[Ruby Tuner](https://github.com/rubylang-ai/ruby-tuner): A ruby framework for fine-tuning LLMs for ruby code generation.</li>
 - ⚡️[PodcastBuddy](https://github.com/codenamev/podcast-buddy): An AI companion to join you on your pod.</li>
 - ⚡️[GitCommander](https://github.com/codenamev/git-commander): A CLI tool for creating git commands with ruby.</li>
-- 🚧 Agentic: A ruby gem for building plan & execute LLM applications.</li>
+- 🚧 [Agentic](https://github.com/codenamev/agentic): A ruby gem for building plan & execute LLM applications.</li>
 - 🚧 [langforge-rails](https://github.com/codenamev/langforge-rails): A Ruby on Rails application for evaluating LLM outputs.</li>
 - 🚧 [A trainable robot arm](https://x.com/RemiCadene/status/1825455895561859185).</li>
 - 🚧 [Slimer](https://github.com/codenamev/slimer): A minimalist, database-agnostic, consumer of arbitrary data for IOT.</li>
