@@ -7,6 +7,7 @@
 
 ## Incomplete List of Activities
 
+- ⚡️[AI Software Architect](https://github.com/codenamev/ai-software-architect): A markdown-based framework for implementing rigorous software architecture practices in any project, with specialized AI assistant integration.</li>
 - ⚡️[Ruby Tuner](https://github.com/rubylang-ai/ruby-tuner): A ruby framework for fine-tuning LLMs for ruby code generation.</li>
 - ⚡️[PodcastBuddy](https://github.com/codenamev/podcast-buddy): An AI companion to join you on your pod.</li>
 - ⚡️[GitCommander](https://github.com/codenamev/git-commander): A CLI tool for creating git commands with ruby.</li>
