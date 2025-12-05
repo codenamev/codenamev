@@ -7,6 +7,7 @@
 
 ## Incomplete List of Activities
 
+- ⚡️[DailyVibe.ai](https://dailyvibe.ai): Discover the emotional pulse of your world through AI-generated art, music, and news.</li>
 - ⚡️[AI Software Architect](https://github.com/codenamev/ai-software-architect): A markdown-based framework for implementing rigorous software architecture practices in any project, with specialized AI assistant integration.</li>
 - ⚡️[NowReading.dev](https://nowreading.dev): Organize and share your reading list effortlessly.</li>
 - ⚡️[Ruby Tuner](https://github.com/rubylang-ai/ruby-tuner): A ruby framework for fine-tuning LLMs for ruby code generation.</li>
