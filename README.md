@@ -7,6 +7,7 @@
 
 ## Incomplete List of Activities
 
+- ⚡️[ClaudeMemory](https://github.com/codenamev/claude_memory): A ruby gem for adding long-term durable memory to Claude Code.</li>
 - ⚡️[DailyVibe.ai](https://dailyvibe.ai): Discover the emotional pulse of your world through AI-generated art, music, and news.</li>
 - ⚡️[AI Software Architect](https://github.com/codenamev/ai-software-architect): A markdown-based framework for implementing rigorous software architecture practices in any project, with specialized AI assistant integration.</li>
 - ⚡️[NowReading.dev](https://nowreading.dev): Organize and share your reading list effortlessly.</li>
@@ -22,6 +23,8 @@
 - 🚧 MorseCodex: A ruby gem that makes it easy to work with Morse Code.</li>
 - 🚧 MorseX: A ruby gem that blasts posts from your X account into Marse Code through your speakers.</li>
 - 🚧 [ruby-pi](https://github.com/codenamev/ruby-pi): An ongoing collection of experiments with Ruby on a Raspberry Pi.</li>
+- 💡 A Rails app exploring self-building software through choas.</li>
+- 💡 A Ruby gem exploring self-building software through choas.</li>
 - 💡 A rails engine that shows a live dashboard of Raspberry Pi signals.</li>
 - 💡 Rails Lightning: A ruby gem that overrides the Rails auto-loader to only require and load files under test.</li>
 - 💡 [Neat.dev](https://neat.dev): A simple relay of every time Justin Searls mentions "neat" in an X post.</li>
