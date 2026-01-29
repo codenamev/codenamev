@@ -7,6 +7,7 @@
 
 ## Incomplete List of Activities
 
+- ⚡️[chaos_to_the_rescue](https://github.com/codenamev/chaos_to_the_rescue): Safe-by-default LLM-powered Ruby method generation and Rails error rescue suggestions.</li>
 - ⚡️[ClaudeMemory](https://github.com/codenamev/claude_memory): A ruby gem for adding long-term durable memory to Claude Code.</li>
 - ⚡️[DailyVibe.ai](https://dailyvibe.ai): Discover the emotional pulse of your world through AI-generated art, music, and news.</li>
 - ⚡️[AI Software Architect](https://github.com/codenamev/ai-software-architect): A markdown-based framework for implementing rigorous software architecture practices in any project, with specialized AI assistant integration.</li>
